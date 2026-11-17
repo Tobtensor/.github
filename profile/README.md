@@ -1,10 +1,8 @@
-## Hi there 👋
+# `tob`: Git-like version control for tensors
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/tobtensor/.github/main/profile/tobtensor.svg" width="112" height="112" alt="tobtensor logo">
-
-# `tob`: Git-like version control for tensors
 
 **Tensor-native version control for AI models.**
 
